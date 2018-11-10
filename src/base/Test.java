@@ -6,7 +6,7 @@ public class Test
         String name = "SDA";
         Loops loops = new Loops();
         loops.printSimpleArray();
-        String message = Loops.message()
-        System.out.println(message());
+        String message = Loops.message();
+       // System.out.println(message());
     }
 }
